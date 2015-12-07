@@ -14,7 +14,7 @@ span.red {
 }
 
 header {
-  background-image: url("bg.jpg");
+  background-image: url("background.jpg");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
